@@ -4,3 +4,12 @@ body{
 tr:hover{
     background-color: red;
 }
+/*estilo por la etiqueta */
+
+#nombre{
+    border: 1px navajowhite;
+    border-radius: 3px;
+    background-color: black
+   
+
+}
